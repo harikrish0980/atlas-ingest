@@ -1,0 +1,10 @@
+{"query":"What is data engineering?","expected_source_contains":"data"}
+{"query":"What is information extraction?","expected_source_contains":"extraction"}
+{"query":"What is SimHash used for?","expected_source_contains":"simhash"}
+{"query":"What is a PDF ingestion pipeline?","expected_source_contains":"pdf"}
+{"query":"What does chunking mean in NLP pipelines?","expected_source_contains":"chunk"}
+{"query":"What is near-duplicate detection?","expected_source_contains":"duplicate"}
+{"query":"What is a web crawler?","expected_source_contains":"crawl"}
+{"query":"What is OpenSearch used for?","expected_source_contains":"search"}
+{"query":"What is a metadata store in a pipeline?","expected_source_contains":"metadata"}
+{"query":"What is JSONL format used for?","expected_source_contains":"json"}
